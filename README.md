@@ -76,95 +76,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-* **[Ellucian Banner](https://www.ellucian.com/)**
-
-  Enterprise higher-education ERP/SIS ecosystem covering student records, admissions, advising, degree planning, registration, academic records, financial aid, student accounts, finance, HR and institutional operations. Banner Student provides a central student-information system with admissions, advising, registration, academic records, self-service, course catalogues and scheduling.
-
-
-
-* **[Anthology Student](https://www.anthology.com/)**
-
-  Cloud-based student-information and enterprise-resource platform supporting the student lifecycle from enrollment through graduation while also covering finance, financial aid, faculty workload, payroll and other institutional functions. The Anthology SIS/ERP business is now part of Ellucian.
-
-
-
-* **[Workday Student](https://www.workday.com/en-us/products/student.html)**
-
-  Cloud-native higher-education student-management platform integrated with Workday's financial-management, HCM and analytics ecosystem. Supports admissions, recruiting, student records, academic operations, advising, financial aid, student finance and student engagement.
-
-
-
-* **[Oracle PeopleSoft Campus Solutions](https://www.oracle.com/industries/higher-education/campus-solutions/)**
-
-  Enterprise SIS for higher education covering recruiting, admissions, student records, curriculum, enrollment, advising, academic structure, student financials, financial aid and related campus administration.
-
-
-
-* **[Jenzabar ONE](https://jenzabar.com/jenzabar-one)**
-
-  Cloud ERP/SIS platform designed specifically for higher education. It provides a unified institutional system supporting student success, academic operations, administrative processes and institutional data.
-
-
-
-* **[Jenzabar Student](https://jenzabar.com/product/student)**
-
-  Higher-education SIS focused on student lifecycle management, engagement, academic administration and integrated student services from enrollment through completion.
-
-
-
-* **[Unit4 Student Management](https://www.unit4.com/)**
-
-  Higher-education student-management platform supporting student administration, academic processes, admissions, enrollment and student lifecycle workflows within the broader Unit4 ERP ecosystem.
-
-
-
-* **[CampusCafe](https://www.campuscafesoftware.com/)**
-
-  Higher-education campus-management and student-information platform supporting admissions, student records, registration, advising, billing, housing, dining, financial aid and campus services.
-
-
-
-* **[Academia ERP](https://www.academiaerp.com/)**
-
-  Education ERP platform designed to unify academic and administrative operations, including student information, admissions, fees, attendance, examinations, HR, finance and institutional reporting.
-
-
-
-* **[Classe365](https://www.classe365.com/)**
-
-  Cloud student-information and education-management platform covering admissions, CRM, student records, course management, billing, learning-related workflows, communication and reporting.
-
-
-
-* **[Populi](https://www.populiweb.com/)**
-
-  Cloud-based higher-education management platform integrating student information, academics, admissions, financial management, learning-management functions, communication and administrative workflows.
-
-
-
-* **[Anthology Student](https://www.anthology.com/)**
-
-  Student-centric SIS/ERP environment providing higher-education lifecycle management and institutional administration, including student records, finance, financial aid, faculty workload and payroll.
-
-
-
-* **[Ellucian Colleague](https://www.ellucian.com/)**
-
-  Higher-education ERP/SIS platform serving institutions with student, finance, HR and administrative capabilities as part of the broader Ellucian ecosystem. Ellucian currently positions Banner and Colleague as foundations of its Ellucian Student offering.
-
-
-
-* **[Modern Campus](https://moderncampus.com/)**
-
-  Higher-education technology ecosystem covering student engagement, curriculum, catalogues, scheduling, career services, enrollment and institutional operations.
-
-
-
-* **[PowerCampus](https://www.ellucian.com/)**
-
-  Higher-education SIS/ERP technology associated with Ellucian's broader campus-management portfolio, particularly relevant to institutions seeking integrated student and administrative processes.
+| Product | Description / Core Focus | Starting Tier Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Ellucian Banner](https://www.ellucian.com/)** | Enterprise higher-education ERP/SIS ecosystem covering student records, admissions, advising, degree planning, registration, financial aid, student accounts, finance, and HR. | Starts at ~$10,000 – $50,000/year for base institutional tiers (scales to $100k+/year for full enterprise ERP suite) | No free forever plan; 30-day guided evaluation sandbox & live pilot demo upon institutional qualification |
+| **[Anthology Student](https://www.anthology.com/)** | Cloud-based student-information and enterprise-resource platform supporting the student lifecycle, financial aid, finance, and faculty workload (part of Ellucian ecosystem). | Starts at ~$10,000 – $25,000/year (or ~$12–$16/student/year equivalent for initial modular tiers) | No free forever plan; tailored institutional sandbox pilot upon scheduled consultation |
+| **[Workday Student](https://www.workday.com/en-us/products/student.html)** | Cloud-native higher-education student-management platform integrated with Workday financial management, HCM, advising, and predictive analytics. | Starts at ~$100,000/year (baseline enterprise subscriptions start around ~$80–$100/user/year with annual institutional minimums) | No free forever plan; guided live interactive product demo and sandbox environment upon enterprise qualification |
+| **[Oracle PeopleSoft Campus Solutions](https://www.oracle.com/industries/higher-education/campus-solutions/)** | Enterprise SIS for higher education covering admissions, student records, curriculum, enrollment, degree audit, financial aid, and student financials. | Starts at ~$120/FTE student/year or ~$4,500/named application user (standard Oracle metric base entry) | No free forever plan (OCI offers 30-day / $300 credit cloud trial, but Campus Solutions application requires guided vendor demo) |
+| **[Jenzabar ONE](https://jenzabar.com/jenzabar-one)** | Unified cloud ERP/SIS platform designed for higher education, supporting student success, retention, finance, HR, and institutional data. | Starts at ~$20,000 – $35,000/year (base institutional package; consortium discounts available) | No free forever plan; customized live demonstration & evaluation sandbox upon request |
+| **[Jenzabar Student](https://jenzabar.com/product/student)** | Higher-education SIS focused on student lifecycle management, engagement, course scheduling, and academic administration. | Starts at ~$1,500/month (~$18,000/year for specialized or small-to-mid institutions) | No free forever plan; scheduled interactive product demo on demand |
+| **[Unit4 Student Management](https://www.unit4.com/)** | Next-gen higher-education student management supporting admissions, curriculum, enrollment, billing, and lifecycle workflows within Unit4 ERP. | Starts at ~$80 – $150/user/month (entry institutional packages start around ~$25,000/year) | No permanent free tier; commitment-free "AI for Your World" trial through August 31, 2027 for ERPx capabilities, or 14–30 day guided pilot upon RFP |
+| **[CampusCafe](https://www.campuscafesoftware.com/)** | Higher-education campus management and SIS supporting admissions, student records, registration, advising, billing, financial aid, and housing. | Starts at $1,200/month (billed annually, ~$14,400/year) | No free forever plan; 14-day evaluation sandbox & guided interactive demo on request |
+| **[Academia ERP](https://www.academiaerp.com/)** | Complete education ERP platform unifying student information, admissions, fee management, examinations, attendance, and administrative reporting. | Starts at ~$1.50 – $3.00/student/year (or entry SaaS tier starting at ~$500/month / ₹35,000/month for small campuses) | No free forever plan; 14-day guided proof-of-concept / live demo workshop upon registration |
+| **[Classe365](https://www.classe365.com/)** | Cloud student-information and education-management platform covering admissions CRM, student records, billing, LMS, and communication. | Starts at $100/month (Core SIS module for up to 100 students; includes unlimited teachers, admins, and parents) | 15-day free trial (full module access, no credit card required); no permanent free tier |
+| **[Populi](https://www.populiweb.com/)** | All-in-one cloud higher-education management platform integrating SIS, admissions, billing, financial aid, and lightweight LMS. | Starts at $199/month base fee + $9/month per billable student (includes 2,000 GB storage and 200 GB transfer/month) | 30-day free trial (full platform access, no credit card required, demo setup included); no permanent free tier |
+| **[Ellucian Colleague](https://www.ellucian.com/)** | Higher-education ERP/SIS serving institutions with student, finance, HR, and administrative capabilities as part of the broader Ellucian ecosystem. | Starts at ~$30,000 – $60,000/year for base small-to-mid college tier | No free forever plan; customized institutional demo and consultation sandbox upon request |
+| **[Modern Campus](https://moderncampus.com/)** | Higher-education digital engagement ecosystem covering curriculum, course catalog, non-traditional student enrollment, and scheduling. | Starts at ~$8,000 – $15,000/year (for entry module such as Catalog & Curriculum / Omni CMS) | No free forever plan; guided live interactive product demo on request |
+| **[PowerCampus](https://www.ellucian.com/)** | Integrated higher-education SIS/ERP technology for independent colleges managing admissions, student records, billing, and advancement. | Starts at ~$15,000 – $25,000/year for entry institutional licensing | No free forever plan; vendor-assisted live demonstration and migration evaluation on request |
 
 
 
